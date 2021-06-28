@@ -1,7 +1,4 @@
 
-[WhatsApp Image 2021-06-28 at 18 46 45](https://user-images.githubusercontent.com/73404086/123709919-34ca9700-d844-11eb-9555-6482146e8735.jpeg)
-
-
 <h1 align="center">Hola 👋, mi nombre es Pablo Molina</h1>
 <h3 align="center">Soy un apasionado de la programación y  tengo conocimientos Full Stack.</h3>
 <p>
