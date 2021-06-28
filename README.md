@@ -15,9 +15,9 @@ Gracias por su tiempo.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
+<p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CCS3</a></p>
-<p>  
+<p align="left">  
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> ExpressJs</a> </p>
 <p>  
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git </a> </p>
