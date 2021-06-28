@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, mi nombre es Pablo Molina</h1>
 <h3 align="center">Soy un apasionado de la programación y  tengo conocimientos Full Stack.</h3>
 <p>
-  Luego de recibirme del bachiller en informática, me interese un montón por la programación por lo que logre dar con #henry, que me permitió profundizar mis conocimientos y adquirir experiencia en proyectos como Full Stack Web Developer a nivel académico. Con esto como base espero poder seguir obteniendo mas experiencia y aprendiendo nuevas tecnologías, especializándome y logrando tener un mejor futuro.<br/>
+  Luego de recibirme del bachiller en informática, me interese un montón por la programación por lo que logre dar con #henry, que me permitió profundizar mis conocimientos y adquirir experiencia en proyectos como Full Stack Web Developer a nivel académico. Con esto como base espero poder seguir obteniendo mas experiencia y aprendiendo nuevas tecnologías, especializándome y logrando tener un mejor futuro.</p>
+<p>
   Poseo experiencia trabajando en proyectos como Full Stack Web Developer a nivel académico y cuento con muchas ganas de obtener experiencias en el mundo real, ademas de poder seguir aprendiendo y avanzando con mi carrera profesional.
   Si te interesa mi perfil y quieres conocer mas, puedes contactarme por mi mail de contacto: pmolina9876@gmail.com.
 Gracias por su tiempo.
